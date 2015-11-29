@@ -1,0 +1,22 @@
+git status
+
+git add-all
+
+git commit -m ''first commit''
+
+// m is for message
+// first time set remote repository(repo)
+
+git remote add origin https://github.com/Ariful-Haque/gojourney.git
+// this will connect your git repository with your //computer
+
+git push -u origin master
+// This will push your file to your git repo
+// '-u origin master' needs to use only for first time
+
+// For later time you just use 
+git push
+
+go get -u github.com/Ariful-Haque/gojourney
+// to update github go programming repo
+

@@ -1,0 +1,19 @@
+go fmt 
+// nicely format your code
+
+go run
+// runs your code
+
+go build
+// create .exe file
+
+go clean
+//removes the created .exe file
+
+go install
+//creates .exe file inside the bin folder of my
+// workspace
+
+//To run it from the command line
+// just write the filename from any where.
+
